@@ -10,7 +10,7 @@ tags:
 - Numpy
 - Pandas
 - Scikit-learn
-repoUrl: https://github.com/NelsonAIDev/Human-pose-estimation
+repoUrl: https://github.com/NelsonAIDev/Iris
 ---
 
 This project presents an automatic classifier of Iris species, using the famous Iris dataset. Using machine learning algorithms, the model is capable of identifying and categorizing flowers into three species: Iris-setosa, Iris-versicolor and Iris-virginica. The classifier takes advantage of characteristics such as the length and width of the sepals and petals to perform accurate and efficient classification.
